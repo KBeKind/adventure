@@ -1,8 +1,33 @@
 /* Write your CSS here! */
 
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    text-align: center;
+
+}
+p {
+
+
+}
 #bright-mystic-valley{
     float: left;
-    height: 40vh;
-    margin: 10px;
+    height: 30vh;
+    margin-right: 2%;
+}
+
+#magic-seed {
+    float: right;
+    height: 20vh;
+    margin: 0%;
 
 }
